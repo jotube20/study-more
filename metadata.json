@@ -1,0 +1,8 @@
+{
+  "name": "StudyFlow — Smart Study & Exam Planner",
+  "description": "Intelligent study planning, exam preparation, Pomodoro focus mode, assignment tracking, and learning analytics for students of all levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
